@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import Heading1 from '../../atoms/Heading1/index';
 import PrimaryButton from '../../atoms/PrimaryButton';
 

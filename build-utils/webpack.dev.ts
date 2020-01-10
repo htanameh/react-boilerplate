@@ -1,6 +1,6 @@
-import * as webpack from 'webpack';
-import * as Dotenv from 'dotenv-webpack';
-// import * as path from 'path';
+import webpack from 'webpack';
+import Dotenv from 'dotenv-webpack';
+// import   path from 'path';
 
 // const bundlePath = path.resolve(__dirname, '../dist/');
 

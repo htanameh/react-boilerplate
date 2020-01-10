@@ -1,5 +1,5 @@
-import * as Dotenv from 'dotenv-webpack';
-import * as webpack from 'webpack';
+import Dotenv from 'dotenv-webpack';
+import webpack from 'webpack';
 
 const prodConfig: webpack.Configuration = {
   mode: 'production',

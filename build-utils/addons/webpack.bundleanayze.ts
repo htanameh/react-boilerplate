@@ -1,4 +1,4 @@
-import * as WebpackBundleAnalyzer from 'webpack-bundle-analyzer';
+import WebpackBundleAnalyzer from 'webpack-bundle-analyzer';
 
 const { BundleAnalyzerPlugin } = WebpackBundleAnalyzer;
 
